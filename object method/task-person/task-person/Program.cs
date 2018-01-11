@@ -12,9 +12,15 @@ namespace task_person
         {
             Person personAleksi = new Person();
             personAleksi.Name = "Aleksi L";
+            Console.WriteLine($"Aleksin ikä: {personAleksi.GetAge()}");
+
+            personAleksi.GrowOld();
+            Console.WriteLine($"Aleksin ikä: {personAleksi.GetAge()}");
+            personAleksi.GrowOld(50);
+            personAleksi.PrintPersonInfo();
 
             Person newPerson = new Person("Joe Doe", 17);
-            newPerson.PrintPersonInfo();
+            newPerson.PrintPersonInfo();            
             newPerson.GrowOld();
             newPerson.PrintPersonInfo();
             Console.ReadKey();
