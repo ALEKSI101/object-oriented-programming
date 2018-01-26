@@ -8,9 +8,15 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("task-car")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
+<<<<<<< HEAD
 [assembly: AssemblyCompany("Saimaan AMK")]
 [assembly: AssemblyProduct("task-car")]
 [assembly: AssemblyCopyright("Copyright © Saimaan AMK 2018")]
+=======
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("task-car")]
+[assembly: AssemblyCopyright("Copyright ©  2018")]
+>>>>>>> 9541afb484abd25d8577f6ffaaa944f14d203497
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +26,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("2dfe5299-f442-4d3f-9a6c-78ba3df93399")]
+=======
+[assembly: Guid("3998eeee-38db-4c93-ae19-21447d64171e")]
+>>>>>>> 9541afb484abd25d8577f6ffaaa944f14d203497
 
 // Version information for an assembly consists of the following four values:
 //

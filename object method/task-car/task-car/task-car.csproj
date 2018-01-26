@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{2DFE5299-F442-4D3F-9A6C-78BA3DF93399}</ProjectGuid>
+=======
+    <ProjectGuid>{3998EEEE-38DB-4C93-AE19-21447D64171E}</ProjectGuid>
+>>>>>>> 9541afb484abd25d8577f6ffaaa944f14d203497
     <OutputType>Exe</OutputType>
     <RootNamespace>task_car</RootNamespace>
     <AssemblyName>task-car</AssemblyName>

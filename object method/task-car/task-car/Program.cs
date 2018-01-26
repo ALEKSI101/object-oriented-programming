@@ -10,6 +10,7 @@ namespace task_car
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Car car1 = new Car();
 
             car1.AskData();
@@ -30,6 +31,11 @@ namespace task_car
 
             Console.ReadKey();
 
+=======
+            Car newCar = new Car();
+            newCar.
+            
+>>>>>>> 9541afb484abd25d8577f6ffaaa944f14d203497
         }
     }
 }
