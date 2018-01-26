@@ -33,9 +33,18 @@ namespace task_book_and_author
         price = price;
         theme = theme; 
     }
-    
+
     //Methods
 
-    public void 
+    public void GetBook()
+    {
+
+    }
+
+    public void ChangeTheme()
+    {
+
+    }
+
 
 }
